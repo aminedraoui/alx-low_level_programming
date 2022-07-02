@@ -1,6 +1,8 @@
 #include<stdio.h>
-/*alphabet program*/
-int main (void)
+/**
+* alphabet program
+*/
+int main(void)
 {
 char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 int i;
